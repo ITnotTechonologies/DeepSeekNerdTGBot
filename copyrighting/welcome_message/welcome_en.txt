@@ -1,0 +1,6 @@
+Hello, Guys!
+
+This is the DeepSeekNerd Telegram Bot
+As you can guess from it's name it has integrated DeepSeek AI inside, That you can Use!
+If I am not to lazy there will be more integrated AI's in it.
+Enjoy using it!
